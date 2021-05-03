@@ -1,0 +1,40 @@
+{
+  "name": "typestub-ipfs-only-hash",
+  "version": "4.0.0",
+  "description": "The type definition for ipfs-only-hash package",
+  "types": "index.d.ts",
+  "main": "index.js",
+  "keywords": [
+    "ipfs",
+    "ipfs-only-hash",
+    "types",
+    "typestub"
+  ],
+  "scripts": {
+    "test": "tsc"
+  },
+  "dependencies": {
+    "ipfs-only-hash": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.10.38",
+    "typescript": "^3.1.6"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/typestub-ipfs-only-hash.git"
+  },
+  "author": {
+    "name": "Beeno Tung",
+    "email": "aabbcc1241@yahoo.com.hk",
+    "url": "https://beeno-tung.surge.sh"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/beenotung/typestub-ipfs-only-hash/issues"
+  },
+  "homepage": "https://github.com/beenotung/typestub-ipfs-only-hash#readme"
+}
